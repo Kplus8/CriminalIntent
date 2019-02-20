@@ -22,4 +22,6 @@ object CrimeLab {
         }
         return null
     }
+
+    fun getCrimes() = crimes
 }

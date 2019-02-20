@@ -11,12 +11,19 @@ abstract class SingleFragmentActivity : AppCompatActivity() {
 
     protected abstract fun createFragment() : Fragment
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Log.d(getLogTag(), "onCreate() called")
         setContentView(R.layout.activity_single_fragment)
 
-        // TODO create fragment transaction
+        var fragment: Fragment? =
+                supportFragmentManager.findFragmentById(R.id.fragment_container)
+
+        if(fragment == null) {
+            fragment = createFragment()
+            supportFragmentManager.beginTransaction().add(R.id.fragment_container, fragment).commit()
+        }
 
     }
 

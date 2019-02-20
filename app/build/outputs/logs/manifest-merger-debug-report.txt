@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ec660c25cfce0fe02d78df74d2868ff7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\910a51953dc45627f1334777108faa6d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc9eb75c7f69ba762becfdcf7a79b361\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8228a4d906155074051849cb848e44f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62a1d790c9f7a853942adec20ab98f3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3699106449f82a26d4b7541fe7bf546a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d51d2843d94580b132529c9207733da2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\112f65512659181f8194909ffea0e640\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d7a5c5cc2145e05d8ddb3f0c382593e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53812384e5887ada2560663b2a397706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\907946d2f2c30f7aa2c3fd57ffed3a31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2609a6a68eda1806a2b0273cc8565c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8db33a1512646bf4660e69f7f31d5f46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd25947ee68c29e1317fb653d9003820\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51bdb7af92c4d189688a62141e5f1e36\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:3:11-52
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\910a51953dc45627f1334777108faa6d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\910a51953dc45627f1334777108faa6d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.csci448.labs.criminalintent.CrimeListActivity
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.csci448.labs.criminalintent.CrimeDetailsActivity
+ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml:19:19-55
+uses-sdk
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ec660c25cfce0fe02d78df74d2868ff7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ec660c25cfce0fe02d78df74d2868ff7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\910a51953dc45627f1334777108faa6d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\910a51953dc45627f1334777108faa6d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc9eb75c7f69ba762becfdcf7a79b361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc9eb75c7f69ba762becfdcf7a79b361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8228a4d906155074051849cb848e44f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8228a4d906155074051849cb848e44f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62a1d790c9f7a853942adec20ab98f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62a1d790c9f7a853942adec20ab98f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3699106449f82a26d4b7541fe7bf546a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3699106449f82a26d4b7541fe7bf546a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d51d2843d94580b132529c9207733da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d51d2843d94580b132529c9207733da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\112f65512659181f8194909ffea0e640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\112f65512659181f8194909ffea0e640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d7a5c5cc2145e05d8ddb3f0c382593e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d7a5c5cc2145e05d8ddb3f0c382593e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53812384e5887ada2560663b2a397706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\53812384e5887ada2560663b2a397706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\907946d2f2c30f7aa2c3fd57ffed3a31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\907946d2f2c30f7aa2c3fd57ffed3a31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2609a6a68eda1806a2b0273cc8565c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2609a6a68eda1806a2b0273cc8565c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8db33a1512646bf4660e69f7f31d5f46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8db33a1512646bf4660e69f7f31d5f46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd25947ee68c29e1317fb653d9003820\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd25947ee68c29e1317fb653d9003820\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51bdb7af92c4d189688a62141e5f1e36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherbgone\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51bdb7af92c4d189688a62141e5f1e36\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherbgone\Desktop\AppDevelopment\CriminalIntent\app\src\main\AndroidManifest.xml
